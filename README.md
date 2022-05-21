@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding websites and designing them
 - 🌱 I’m currently learning ... front-end development
 - 💞️ I’m looking to collaborate on ... coding and design tipa
-- 📫 How to reach me ... on my instagram @dev.fahad
+- 📫 How to reach me ... on my instagram @fm.munikhir_
 
 <!---
 Fahadmfm/Fahadmfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
